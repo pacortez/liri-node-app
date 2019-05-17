@@ -14,9 +14,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.2.1",
+    "axios": "^0.18.0",
     "dotenv": "8.0.0",
-    "axios": "^0.18.0"
+    "inquirer": "^6.2.1",
+    "node-spotify-api": "^1.1.1"
   },
   "bugs": {
     "url": "https://github.com/pacortez/liri-node-app/issues"
